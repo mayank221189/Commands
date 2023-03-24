@@ -21,4 +21,9 @@ Github
 5. git remote add origin "remote repository URL"
 6. git pull origin master
 7. git push origin master 
- 
+
+======
+Create a React App/ React Native app
+======
+npx create-react-app my-app --template typescript
+npx create-expo-app my-app --template
